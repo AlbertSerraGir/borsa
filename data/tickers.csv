@@ -1,0 +1,299 @@
+﻿Empresa,Ticker,Sector,Pais,Index
+Inditex,ITX.MC,Consum discrecional,Espanya,IBEX 35
+Iberdrola,IBE.MC,Utilities,Espanya,IBEX 35
+Banco Santander,SAN.MC,Financer,Espanya,IBEX 35
+BBVA,BBVA.MC,Financer,Espanya,IBEX 35
+CaixaBank,CABK.MC,Financer,Espanya,IBEX 35
+Aena,AENA.MC,Industrials,Espanya,IBEX 35
+Amadeus,AMS.MC,Tecnologia,Espanya,IBEX 35
+Cellnex,CLNX.MC,Telecomunicacions,Espanya,IBEX 35
+Repsol,REP.MC,Energia,Espanya,IBEX 35
+Naturgy,NTGY.MC,Utilities,Espanya,IBEX 35
+Endesa,ELE.MC,Utilities,Espanya,IBEX 35
+Ferrovial,FER.MC,Industrials,Espanya,IBEX 35
+ACS,ACS.MC,Industrials,Espanya,IBEX 35
+Mapfre,MAP.MC,Financer,Espanya,IBEX 35
+Redeia,RED.MC,Utilities,Espanya,IBEX 35
+Enagas,ENG.MC,Utilities,Espanya,IBEX 35
+Grifols,GRF.MC,Salut,Espanya,IBEX 35
+Merlin Properties,MRL.MC,Immobiliari,Espanya,IBEX 35
+Sacyr,SCYR.MC,Industrials,Espanya,IBEX 35
+Acciona,ANA.MC,Industrials,Espanya,IBEX 35
+Acciona Energia,ANE.MC,Utilities,Espanya,IBEX 35
+ArcelorMittal,MTS.MC,Materials,Espanya,IBEX 35
+Bankinter,BKT.MC,Financer,Espanya,IBEX 35
+Unicaja Banco,UNI.MC,Financer,Espanya,IBEX 35
+Sabadell,SAB.MC,Financer,Espanya,IBEX 35
+IAG,IAG.MC,Industrials,Espanya,IBEX 35
+Indra,IDR.MC,Tecnologia,Espanya,IBEX 35
+Logista,LOG.MC,Industrials,Espanya,IBEX 35
+Rovi,ROVI.MC,Salut,Espanya,IBEX 35
+Solaria,SLR.MC,Utilities,Espanya,IBEX 35
+Colonial,COL.MC,Immobiliari,Espanya,IBEX 35
+Fluidra,FDR.MC,Industrials,Espanya,IBEX 35
+Acerinox,ACX.MC,Materials,Espanya,IBEX 35
+Puig,PUIG.MC,Consum defensiu,Espanya,IBEX 35
+Telefonica,TEF.MC,Telecomunicacions,Espanya,IBEX 35
+SAP,SAP.DE,Tecnologia,Alemanya,DAX
+Siemens,SIE.DE,Industrials,Alemanya,DAX
+Allianz,ALV.DE,Financer,Alemanya,DAX
+Deutsche Telekom,DTE.DE,Telecomunicacions,Alemanya,DAX
+Munich Re,MUV2.DE,Financer,Alemanya,DAX
+Airbus,AIR.DE,Industrials,Alemanya,DAX
+Mercedes-Benz Group,MBG.DE,Consum discrecional,Alemanya,DAX
+Volkswagen,VOW3.DE,Consum discrecional,Alemanya,DAX
+BMW,BMW.DE,Consum discrecional,Alemanya,DAX
+Porsche Automobil Holding,PAH3.DE,Consum discrecional,Alemanya,DAX
+Porsche AG,P911.DE,Consum discrecional,Alemanya,DAX
+BASF,BAS.DE,Materials,Alemanya,DAX
+Bayer,BAYN.DE,Salut,Alemanya,DAX
+Deutsche Bank,DBK.DE,Financer,Alemanya,DAX
+Commerzbank,CBK.DE,Financer,Alemanya,DAX
+Deutsche Boerse,DB1.DE,Financer,Alemanya,DAX
+DHL Group,DHL.DE,Industrials,Alemanya,DAX
+Adidas,ADS.DE,Consum discrecional,Alemanya,DAX
+Infineon,IFX.DE,Tecnologia,Alemanya,DAX
+RWE,RWE.DE,Utilities,Alemanya,DAX
+E.ON,EOAN.DE,Utilities,Alemanya,DAX
+Vonovia,VNA.DE,Immobiliari,Alemanya,DAX
+Merck KGaA,MRK.DE,Salut,Alemanya,DAX
+Fresenius,FRE.DE,Salut,Alemanya,DAX
+Fresenius Medical Care,FME.DE,Salut,Alemanya,DAX
+Siemens Healthineers,SHL.DE,Salut,Alemanya,DAX
+Siemens Energy,ENR.DE,Industrials,Alemanya,DAX
+Henkel,HEN3.DE,Consum defensiu,Alemanya,DAX
+Beiersdorf,BEI.DE,Consum defensiu,Alemanya,DAX
+Hannover Rueck,HNR1.DE,Financer,Alemanya,DAX
+Heidelberg Materials,HEI.DE,Materials,Alemanya,DAX
+MTU Aero Engines,MTX.DE,Industrials,Alemanya,DAX
+Rheinmetall,RHM.DE,Industrials,Alemanya,DAX
+Symrise,SY1.DE,Materials,Alemanya,DAX
+Brenntag,BNR.DE,Industrials,Alemanya,DAX
+Continental,CON.DE,Consum discrecional,Alemanya,DAX
+Sartorius,SRT3.DE,Salut,Alemanya,DAX
+Qiagen,QIA.DE,Salut,Alemanya,DAX
+Zalando,ZAL.DE,Consum discrecional,Alemanya,DAX
+LVMH,MC.PA,Consum discrecional,França,CAC 40
+Hermes,RMS.PA,Consum discrecional,França,CAC 40
+L'Oreal,OR.PA,Consum defensiu,França,CAC 40
+Schneider Electric,SU.PA,Industrials,França,CAC 40
+TotalEnergies,TTE.PA,Energia,França,CAC 40
+Sanofi,SAN.PA,Salut,França,CAC 40
+Air Liquide,AI.PA,Materials,França,CAC 40
+BNP Paribas,BNP.PA,Financer,França,CAC 40
+Safran,SAF.PA,Industrials,França,CAC 40
+EssilorLuxottica,EL.PA,Salut,França,CAC 40
+AXA,CS.PA,Financer,França,CAC 40
+Vinci,DG.PA,Industrials,França,CAC 40
+Danone,BN.PA,Consum defensiu,França,CAC 40
+Dassault Systemes,DSY.PA,Tecnologia,França,CAC 40
+Legrand,LR.PA,Industrials,França,CAC 40
+Saint-Gobain,SGO.PA,Industrials,França,CAC 40
+Thales,HO.PA,Industrials,França,CAC 40
+Orange,ORA.PA,Telecomunicacions,França,CAC 40
+Capgemini,CAP.PA,Tecnologia,França,CAC 40
+Kering,KER.PA,Consum discrecional,França,CAC 40
+Credit Agricole,ACA.PA,Financer,França,CAC 40
+Societe Generale,GLE.PA,Financer,França,CAC 40
+Pernod Ricard,RI.PA,Consum defensiu,França,CAC 40
+Engie,ENGI.PA,Utilities,França,CAC 40
+Veolia,VIE.PA,Utilities,França,CAC 40
+Bouygues,EN.PA,Industrials,França,CAC 40
+Michelin,ML.PA,Consum discrecional,França,CAC 40
+Renault,RNO.PA,Consum discrecional,França,CAC 40
+Stellantis,STLAP.PA,Consum discrecional,França,CAC 40
+Publicis Groupe,PUB.PA,Comunicacio,França,CAC 40
+Unibail-Rodamco-Westfield,URW.PA,Immobiliari,França,CAC 40
+Teleperformance,TEP.PA,Industrials,França,CAC 40
+STMicroelectronics,STMPA.PA,Tecnologia,França,CAC 40
+Carrefour,CA.PA,Consum defensiu,França,CAC 40
+Edenred,EDEN.PA,Financer,França,CAC 40
+Eurofins Scientific,ERF.PA,Salut,França,CAC 40
+Worldline,WLN.PA,Tecnologia,França,CAC 40
+Vivendi,VIV.PA,Comunicacio,França,CAC 40
+ASML,ASML,Tecnologia,EUA,Nasdaq-100
+NVIDIA,NVDA,Tecnologia,EUA,Nasdaq-100
+Apple,AAPL,Tecnologia,EUA,Nasdaq-100
+Microsoft,MSFT,Tecnologia,EUA,Nasdaq-100
+Amazon,AMZN,Consum discrecional,EUA,Nasdaq-100
+Alphabet Class A,GOOGL,Comunicacio,EUA,Nasdaq-100
+Alphabet Class C,GOOG,Comunicacio,EUA,Nasdaq-100
+Meta Platforms,META,Comunicacio,EUA,Nasdaq-100
+Broadcom,AVGO,Tecnologia,EUA,Nasdaq-100
+Tesla,TSLA,Consum discrecional,EUA,Nasdaq-100
+Costco,COST,Consum defensiu,EUA,Nasdaq-100
+Netflix,NFLX,Comunicacio,EUA,Nasdaq-100
+AMD,AMD,Tecnologia,EUA,Nasdaq-100
+Adobe,ADBE,Tecnologia,EUA,Nasdaq-100
+Cisco,CSCO,Tecnologia,EUA,Nasdaq-100
+PepsiCo,PEP,Consum defensiu,EUA,Nasdaq-100
+Qualcomm,QCOM,Tecnologia,EUA,Nasdaq-100
+T-Mobile US,TMUS,Telecomunicacions,EUA,Nasdaq-100
+Intuit,INTU,Tecnologia,EUA,Nasdaq-100
+Texas Instruments,TXN,Tecnologia,EUA,Nasdaq-100
+Applied Materials,AMAT,Tecnologia,EUA,Nasdaq-100
+Arm Holdings,ARM,Tecnologia,EUA,Nasdaq-100
+Booking Holdings,BKNG,Consum discrecional,EUA,Nasdaq-100
+Comcast,CMCSA,Comunicacio,EUA,Nasdaq-100
+Amgen,AMGN,Salut,EUA,Nasdaq-100
+Honeywell,HON,Industrials,EUA,Nasdaq-100
+Intuitive Surgical,ISRG,Salut,EUA,Nasdaq-100
+Palo Alto Networks,PANW,Tecnologia,EUA,Nasdaq-100
+Vertex Pharmaceuticals,VRTX,Salut,EUA,Nasdaq-100
+Micron Technology,MU,Tecnologia,EUA,Nasdaq-100
+Lam Research,LRCX,Tecnologia,EUA,Nasdaq-100
+Analog Devices,ADI,Tecnologia,EUA,Nasdaq-100
+KLA,KLAC,Tecnologia,EUA,Nasdaq-100
+Starbucks,SBUX,Consum discrecional,EUA,Nasdaq-100
+Gilead Sciences,GILD,Salut,EUA,Nasdaq-100
+Mondelez,MDLZ,Consum defensiu,EUA,Nasdaq-100
+MercadoLibre,MELI,Consum discrecional,EUA,Nasdaq-100
+Regeneron,REGN,Salut,EUA,Nasdaq-100
+CrowdStrike,CRWD,Tecnologia,EUA,Nasdaq-100
+Marriott International,MAR,Consum discrecional,EUA,Nasdaq-100
+Automatic Data Processing,ADP,Industrials,EUA,Nasdaq-100
+Cintas,CTAS,Industrials,EUA,Nasdaq-100
+PayPal,PYPL,Financer,EUA,Nasdaq-100
+Airbnb,ABNB,Consum discrecional,EUA,Nasdaq-100
+MicroStrategy,MSTR,Tecnologia,EUA,Nasdaq-100
+DoorDash,DASH,Consum discrecional,EUA,Nasdaq-100
+Moderna,MRNA,Salut,EUA,Nasdaq-100
+Warner Bros Discovery,WBD,Comunicacio,EUA,Nasdaq-100
+Kraft Heinz,KHC,Consum defensiu,EUA,Nasdaq-100
+Exelon,EXC,Utilities,EUA,Nasdaq-100
+Berkshire Hathaway,BRK-B,Financer,EUA,S&P 500
+JPMorgan Chase,JPM,Financer,EUA,S&P 500
+Eli Lilly,LLY,Salut,EUA,S&P 500
+Visa,V,Financer,EUA,S&P 500
+Mastercard,MA,Financer,EUA,S&P 500
+Exxon Mobil,XOM,Energia,EUA,S&P 500
+Walmart,WMT,Consum defensiu,EUA,S&P 500
+UnitedHealth,UNH,Salut,EUA,S&P 500
+Johnson & Johnson,JNJ,Salut,EUA,S&P 500
+Procter & Gamble,PG,Consum defensiu,EUA,S&P 500
+Home Depot,HD,Consum discrecional,EUA,S&P 500
+AbbVie,ABBV,Salut,EUA,S&P 500
+Merck & Co,MRK,Salut,EUA,S&P 500
+Chevron,CVX,Energia,EUA,S&P 500
+Coca-Cola,KO,Consum defensiu,EUA,S&P 500
+Bank of America,BAC,Financer,EUA,S&P 500
+Oracle,ORCL,Tecnologia,EUA,S&P 500
+Salesforce,CRM,Tecnologia,EUA,S&P 500
+Thermo Fisher Scientific,TMO,Salut,EUA,S&P 500
+McDonald's,MCD,Consum discrecional,EUA,S&P 500
+Accenture,ACN,Tecnologia,EUA,S&P 500
+Wells Fargo,WFC,Financer,EUA,S&P 500
+Abbott Laboratories,ABT,Salut,EUA,S&P 500
+Danaher,DHR,Salut,EUA,S&P 500
+Philip Morris,PM,Consum defensiu,EUA,S&P 500
+American Express,AXP,Financer,EUA,S&P 500
+General Electric,GE,Industrials,EUA,S&P 500
+IBM,IBM,Tecnologia,EUA,S&P 500
+Caterpillar,CAT,Industrials,EUA,S&P 500
+Morgan Stanley,MS,Financer,EUA,S&P 500
+Goldman Sachs,GS,Financer,EUA,S&P 500
+S&P Global,SPGI,Financer,EUA,S&P 500
+BlackRock,BLK,Financer,EUA,S&P 500
+Union Pacific,UNP,Industrials,EUA,S&P 500
+Lowe's,LOW,Consum discrecional,EUA,S&P 500
+RTX,RTX,Industrials,EUA,S&P 500
+Lockheed Martin,LMT,Industrials,EUA,S&P 500
+Boeing,BA,Industrials,EUA,S&P 500
+Deere,DE,Industrials,EUA,S&P 500
+ConocoPhillips,COP,Energia,EUA,S&P 500
+NextEra Energy,NEE,Utilities,EUA,S&P 500
+AT&T,T,Telecomunicacions,EUA,S&P 500
+Verizon,VZ,Telecomunicacions,EUA,S&P 500
+Nike,NKE,Consum discrecional,EUA,S&P 500
+Target,TGT,Consum defensiu,EUA,S&P 500
+3M,MMM,Industrials,EUA,S&P 500
+United Parcel Service,UPS,Industrials,EUA,S&P 500
+Charles Schwab,SCHW,Financer,EUA,S&P 500
+Citigroup,C,Financer,EUA,S&P 500
+Pfizer,PFE,Salut,EUA,S&P 500
+ASML Holding,ASML.AS,Tecnologia,Països Baixos,AEX
+Prosus,PRX.AS,Consum discrecional,Països Baixos,AEX
+ING Groep,INGA.AS,Financer,Països Baixos,AEX
+Adyen,ADYEN.AS,Financer,Països Baixos,AEX
+RELX,REN.AS,Industrials,Països Baixos,AEX
+Wolters Kluwer,WKL.AS,Industrials,Països Baixos,AEX
+Heineken,HEIA.AS,Consum defensiu,Països Baixos,AEX
+Ahold Delhaize,AD.AS,Consum defensiu,Països Baixos,AEX
+DSM-Firmenich,DSFIR.AS,Materials,Països Baixos,AEX
+Universal Music Group,UMG.AS,Comunicacio,Països Baixos,AEX
+Akzo Nobel,AKZA.AS,Materials,Països Baixos,AEX
+ASM International,ASM.AS,Tecnologia,Països Baixos,AEX
+BE Semiconductor,BESI.AS,Tecnologia,Països Baixos,AEX
+NN Group,NN.AS,Financer,Països Baixos,AEX
+ABN AMRO,ABN.AS,Financer,Països Baixos,AEX
+KPN,KPN.AS,Telecomunicacions,Països Baixos,AEX
+Philips,PHIA.AS,Salut,Països Baixos,AEX
+IMCD,IMCD.AS,Industrials,Països Baixos,AEX
+Randstad,RAND.AS,Industrials,Països Baixos,AEX
+Shell,SHELL.AS,Energia,Països Baixos,AEX
+Unilever,UNA.AS,Consum defensiu,Països Baixos,AEX
+Aegon,AGN.AS,Financer,Països Baixos,AEX
+Signify,LIGHT.AS,Industrials,Països Baixos,AEX
+Nestle,NESN.SW,Consum defensiu,Suïssa,SMI
+Novartis,NOVN.SW,Salut,Suïssa,SMI
+UBS,UBSG.SW,Financer,Suïssa,SMI
+Zurich Insurance,ZURN.SW,Financer,Suïssa,SMI
+ABB,ABBN.SW,Industrials,Suïssa,SMI
+Richemont,CFR.SW,Consum discrecional,Suïssa,SMI
+Holcim,HOLN.SW,Materials,Suïssa,SMI
+Sika,SIKA.SW,Materials,Suïssa,SMI
+Givaudan,GIVN.SW,Materials,Suïssa,SMI
+Swiss Re,SREN.SW,Financer,Suïssa,SMI
+Swisscom,SCMN.SW,Telecomunicacions,Suïssa,SMI
+Alcon,ALC.SW,Salut,Suïssa,SMI
+Lonza,LONN.SW,Salut,Suïssa,SMI
+Geberit,GEBN.SW,Industrials,Suïssa,SMI
+Kuehne + Nagel,KNIN.SW,Industrials,Suïssa,SMI
+Logitech,LOGN.SW,Tecnologia,Suïssa,SMI
+Partners Group,PGHN.SW,Financer,Suïssa,SMI
+Swiss Life,SLHN.SW,Financer,Suïssa,SMI
+Sonova,SOON.SW,Salut,Suïssa,SMI
+Ferrari,RACE.MI,Consum discrecional,Italia,FTSE MIB
+Enel,ENEL.MI,Utilities,Italia,FTSE MIB
+Intesa Sanpaolo,ISP.MI,Financer,Italia,FTSE MIB
+UniCredit,UCG.MI,Financer,Italia,FTSE MIB
+Eni,ENI.MI,Energia,Italia,FTSE MIB
+Generali,G.MI,Financer,Italia,FTSE MIB
+Terna,TRN.MI,Utilities,Italia,FTSE MIB
+Snam,SRG.MI,Utilities,Italia,FTSE MIB
+Prysmian,PRY.MI,Industrials,Italia,FTSE MIB
+Leonardo,LDO.MI,Industrials,Italia,FTSE MIB
+Moncler,MONC.MI,Consum discrecional,Italia,FTSE MIB
+Tenaris,TEN.MI,Energia,Italia,FTSE MIB
+Mediobanca,MB.MI,Financer,Italia,FTSE MIB
+Poste Italiane,PST.MI,Financer,Italia,FTSE MIB
+Unipol,UNI.MI,Financer,Italia,FTSE MIB
+BPER Banca,BPE.MI,Financer,Italia,FTSE MIB
+Banco BPM,BAMI.MI,Financer,Italia,FTSE MIB
+Amplifon,AMP.MI,Salut,Italia,FTSE MIB
+Recordati,REC.MI,Salut,Italia,FTSE MIB
+Campari,CPR.MI,Consum defensiu,Italia,FTSE MIB
+FinecoBank,FBK.MI,Financer,Italia,FTSE MIB
+Italgas,IG.MI,Utilities,Italia,FTSE MIB
+Nexi,NEXI.MI,Financer,Italia,FTSE MIB
+Pirelli,PIRC.MI,Consum discrecional,Italia,FTSE MIB
+SPDR S&P 500 ETF,SPY,ETF,EUA,ETF
+Invesco QQQ Trust,QQQ,ETF,EUA,ETF
+iShares Core S&P 500 ETF,IVV,ETF,EUA,ETF
+Vanguard S&P 500 ETF,VOO,ETF,EUA,ETF
+Vanguard Total Stock Market ETF,VTI,ETF,EUA,ETF
+iShares Russell 1000 Growth ETF,IWF,ETF,EUA,ETF
+iShares Russell 2000 ETF,IWM,ETF,EUA,ETF
+Vanguard FTSE Developed Markets ETF,VEA,ETF,EUA,ETF
+Vanguard FTSE Emerging Markets ETF,VWO,ETF,EUA,ETF
+iShares MSCI EAFE ETF,EFA,ETF,EUA,ETF
+iShares MSCI Emerging Markets ETF,EEM,ETF,EUA,ETF
+Vanguard Total Bond Market ETF,BND,ETF,EUA,ETF
+iShares Core US Aggregate Bond ETF,AGG,ETF,EUA,ETF
+SPDR Gold Shares,GLD,ETF,EUA,ETF
+iShares Gold Trust,IAU,ETF,EUA,ETF
+Financial Select Sector SPDR,XLF,ETF,EUA,ETF
+Technology Select Sector SPDR,XLK,ETF,EUA,ETF
+Energy Select Sector SPDR,XLE,ETF,EUA,ETF
+Health Care Select Sector SPDR,XLV,ETF,EUA,ETF
+Consumer Staples Select Sector SPDR,XLP,ETF,EUA,ETF

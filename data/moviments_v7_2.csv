@@ -1,0 +1,4 @@
+Data,Operacio,Tipus,Actiu,Ticker,Quantitat,Preu
+2026-06-01,Compra,Accio,Nvidia,NVDA,5.0,180.0
+2026-06-15,Compra,Accio,Nvidia,NVDA,3.0,210.0
+2026-06-05,Compra,ETF,Nasdaq ETF,QQQ,2.0,700.0
