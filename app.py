@@ -1,7 +1,14 @@
 import streamlit as st
 import yfinance as yf
 import pandas as pd
-from modules.tickers import carregar_tickers
+from modules.tickers import (
+    afegir_ticker_usuari,
+    carregar_tickers,
+    carregar_tickers_df,
+    carregar_tickers_usuari_df,
+    cercar_tickers_yahoo,
+    eliminar_ticker_usuari
+)
 
 from datetime import datetime
 from modules.market_fast import obtenir_dades_mercat
@@ -36,18 +43,107 @@ perfil = st.selectbox(
     ]
 )
 
-tickers_df = pd.read_csv(
-    "data/tickers.csv"
+st.subheader("⭐ Els meus actius")
+
+@st.cache_data(ttl=300)
+def cercar_actius_yahoo(consulta):
+    return cercar_tickers_yahoo(consulta)
+
+
+cerca_actiu = st.text_input(
+    "Cerca una empresa"
 )
 
-tickers = {}
+suggeriments_actius = cercar_actius_yahoo(
+    cerca_actiu
+)
 
-for _, fila in tickers_df.iterrows():
+ticker_usuari = ""
 
-    tickers[fila["Empresa"]] = (
-        fila["Ticker"],
-        fila["Sector"]
+if suggeriments_actius:
+
+    opcions_actius = {
+        f"{actiu['Empresa']} ({actiu['Ticker']})": actiu['Ticker']
+        for actiu in suggeriments_actius
+    }
+
+    actiu_seleccionat = st.selectbox(
+        "Resultats",
+        list(opcions_actius.keys())
     )
+
+    ticker_usuari = opcions_actius[actiu_seleccionat]
+
+elif cerca_actiu.strip():
+
+    st.info(
+        "No s'han trobat resultats a Yahoo Finance."
+    )
+
+if st.button("Afegir actiu"):
+
+    try:
+
+        nou_actiu = afegir_ticker_usuari(
+            ticker_usuari
+        )
+
+        st.success(
+            f"Actiu afegit correctament: "
+            f"{nou_actiu['Empresa']} ({nou_actiu['Ticker']})"
+        )
+
+        st.cache_data.clear()
+        st.rerun()
+
+    except Exception as e:
+
+        st.error(str(e))
+
+actius_usuari = carregar_tickers_usuari_df()
+
+if len(actius_usuari) > 0:
+
+    st.dataframe(
+        actius_usuari,
+        width="stretch"
+    )
+
+    for _, actiu_usuari in actius_usuari.iterrows():
+
+        col_actiu, col_eliminar = st.columns([4, 1])
+
+        with col_actiu:
+            st.write(
+                f"{actiu_usuari['Empresa']} "
+                f"({actiu_usuari['Ticker']})"
+            )
+
+        with col_eliminar:
+            if st.button(
+                "Eliminar",
+                key=f"eliminar_{actiu_usuari['Ticker']}"
+            ):
+
+                eliminar_ticker_usuari(
+                    actiu_usuari["Ticker"]
+                )
+
+                st.success(
+                    "Actiu eliminat correctament."
+                )
+
+                st.cache_data.clear()
+                st.rerun()
+
+else:
+
+    st.info(
+        "Encara no has afegit cap actiu personal."
+    )
+
+tickers_df = carregar_tickers_df()
+tickers = carregar_tickers()
 
 @st.cache_data(ttl=300)
 def carregar_mercat(tickers):
