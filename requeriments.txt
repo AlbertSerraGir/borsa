@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-yfinance
 plotly
 openpyxl
+yfinance==0.2.65
